@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daejeon-shealing.netlify.app/sitemap.xml
